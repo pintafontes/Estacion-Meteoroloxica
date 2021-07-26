@@ -1,5 +1,9 @@
 # Estacion meteorolóxica
 
+NOTE: In the near future there will be an english version of this documentation
+
+**Este repositorio forma parte do proxecto [IoT no Rural](https://github.com/pintafontes/IoT-Rural)**
+
 ## Introducción
 
 Esta guía recolle a documentación, código e arquivos necesarios para a construcción e posta en marcha dunha estación meteorolóxica baseada en ESP8266, e polo tanto, comunicada por Wifi coa rede local dunha vivenda.
