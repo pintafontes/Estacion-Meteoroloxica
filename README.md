@@ -10,7 +10,7 @@ Esta guía recolle a documentación, código e arquivos necesarios para a constr
 
 A estación recibe a alimentación dunha pequena fonte enchufada á rede eléctrica doméstica. O ESP8266 está aloxado nuna caixa estanca estándar para isntalacións eléctricas que cumpriu coa súa función sen problemas por máis dun ano. O código está feito para comunicarse co [servidor MQTT da Raspberri Pi]() que forma parte deste proxecto.
 
-![Pluviómetro e escudo antiradiación](imaxes/estacion-pluviometro.jpg)
+<p align="center"><img alt="Pluviómetro e escudo antiradiación" align="center" src="imaxes/estacion-pluviometro.jpg" width=70%></img></p>
 
 Con esta instalación preténdese:
 
@@ -22,7 +22,7 @@ Con esta instalación preténdese:
 
 + Enriquecer o conxunto e tipo de datos recibidos no noso sistema IoT.
 
-![Cableado da estación](imaxes/estacion-cableado.jpg)
+<p align="center"><img alt="Cableado da estación meteorolóxica" align="center" src="imaxes/estacion-cableado.jpg" width=70%></img></p>
 
 Neste momento a estación dispón dos seguintes sensores:
 
@@ -34,11 +34,11 @@ Próximamente engadirei un sensor de chuvia e outro para a humidade do chan. Tam
 
 ## Conexións co ESP8266
 
-![Cableado do ESP8266](imaxes/estacion-escudo.jpg)
+<p align="center"><img alt="Cableado do ESP826" align="center" src="imaxes/estacion-escudo.jpg" width=70%></img></p>
 
 ## Código
 
-
+Pendente de subir
 
 ## Para saber máis
 
